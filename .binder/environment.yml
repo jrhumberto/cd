@@ -1,0 +1,21 @@
+name: cd
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - python = 3.8
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - pandas
+  - openpyxl
+  - xlrd
+  - scikit-learn
+  - pytorch
+  - rise
+  - pip:
+    - jupyter-contrib-nbextensions
+    - tensorflow >= 2.0
