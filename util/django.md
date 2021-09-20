@@ -339,3 +339,4 @@ https://dev.to/rooky1905/zomato-web-scraper-2jb6
 https://dev.to/mdrhmn/web-scraping-using-django-and-selenium-3ecg
 https://dev.to/madhubankhatri/create-a-dictionary-app-using-django-and-beautifulsoup-5gd5
 https://dev.to/chukslord1/how-to-build-a-soccer-data-web-scraper-with-django-and-fauna-2l1o
+
